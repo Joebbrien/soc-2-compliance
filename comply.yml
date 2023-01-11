@@ -1,0 +1,5 @@
+name: Aicare
+filePrefix: aicare
+tickets:
+  github: {}
+approvedBranch: ""
